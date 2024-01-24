@@ -1,0 +1,64 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('home_back.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+h1 {
+color: #ffffff;  
+text-shadow: 20px 20px 20px #000000; 
+margin-top: 30px;
+margin-left: 30px; 
+font-size: 2.5em;
+}
+h1:hover{
+    text-shadow: 20px 20px 20px #ffffff; 
+
+
+}
+h2 {
+    color: #ffffff;
+    text-align: center;
+    text-shadow: #4caf50;
+    font-style: italic;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    width: 100%;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 0%;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+    color: #333;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
