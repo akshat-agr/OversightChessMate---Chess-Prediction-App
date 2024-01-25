@@ -19,4 +19,5 @@ Pickle
 Scikit-learn
 
 Notebook Link : https://colab.research.google.com/drive/1ID417lXQqZON3lPvWWihSTBlL3IGAnwq?usp=sharing
+
 Blog link : https://akshatagrawal.hashnode.dev/oversightchessmate-predicting-chess-game-outcomes-with-machine-learning
