@@ -21,6 +21,9 @@ Scikit-learn
 -Copy the repo in your system.
 -And execute App.py file using "python App.py".
 -Open the http link appears on terminal.
+
+
+
 Notebook Link : https://colab.research.google.com/drive/1ID417lXQqZON3lPvWWihSTBlL3IGAnwq?usp=sharing
 
 Blog link : https://akshatagrawal.hashnode.dev/oversightchessmate-predicting-chess-game-outcomes-with-machine-learning
