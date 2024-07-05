@@ -19,7 +19,9 @@ Pickle
 Scikit-learn
 # How to run the project
 -Copy the repo in your system.
+
 -And execute App.py file using "python App.py".
+
 -Open the http link appears on terminal.
 
 
